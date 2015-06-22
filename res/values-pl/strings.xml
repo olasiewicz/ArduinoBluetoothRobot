@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arduino Bluetooth Robot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Ustawienia</string>
+    
+    
+    <string name="button_wojtek_Connected">Połączono</string>
+    <string name="wojtek_ToastConnected">Połączono</string>
+    <string name="wojtek_ToastNotConnected">Nie połączono</string>
+    <string name="wojtek_ToastFirstConnect">Najpierw nawiąż połączenie z pojazdem</string>
+    <string name="button_wojtek_Disconnected">Rozłączono</string>
+    
+    <string name="button_wojtek_Accelerometer">Akcelerometr</string>
+    <string name="button_wojtek_Accelerometer_On">Akcelerometr - wł</string>
+    <string name="button_wojtek_Accelerometer_Off">Akcelerometr - wy</string>
+     <string name="button_wojtek_Accelerometer_ClickMe">Naciśnij dwa razy</string>
+    <string name="textView_accelerometer_action">Akcja</string>
+    <string name="textView_accelerometer_forward">Przód</string>
+    <string name="textView_accelerometer_backward">Tył</string>
+    <string name="textView_accelerometer_f_forward">S.Przód</string>
+    <string name="textView_accelerometer_f_backward">S.Tył</string>
+    <string name="textView_accelerometer_right">Prawo</string>
+    <string name="textView_accelerometer_f_right">S.Prawo</string>
+    <string name="textView_accelerometer_left">Lewo</string>
+    <string name="textView_accelerometer_f_left">S.Lewo</string>
+    <string name="textView_accelerometer_stop">Stop</string>
+    
+    <string name="button_wojtek_Ultrasonic">Czujnik Ultradźwiękowy</string>
+    <string name="button_wojtek_Ultrasonic_Off">Czujnik Ultradźwiękowy - wy</string>
+    <string name="button_wojtek_Ultrasonic_On">Czujnik Ultradźwiękowy - wł</string>
+    
+    <string name="wojtek_check_activity">Najpierw sprawdź pozostałe aktywności</string>
+    
+    <string name="button_wojtek_Light">Czujnik Światła</string>
+    <string name="button_wojtek_Light_Off">Czujnik Światła - wy</string>
+    <string name="button_wojtek_Light_On">Czujnik Światła - wł</string>
+    
+    <string name="menuActivity_dialogExit_title">Wyjście </string>
+    <string name="menuActivity_dialogExit_message">Jesteś pewien ?</string>
+    <string name="dialog_Exit">Tak</string>
+    <string name="dialog_Cancel">Anuluj</string>
+    
+    
+     
+
+</resources>

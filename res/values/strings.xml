@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arduino Bluetooth Robot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    
+    <string name="button_wojtek_Connected">Connected</string>
+    <string name="wojtek_ToastConnected">Connected</string>
+    <string name="wojtek_ToastNotConnected">Not connected</string>
+    <string name="wojtek_ToastFirstConnect">First connect with Beetle</string>
+    <string name="button_wojtek_Disconnected">Disconnected</string>
+    
+    <string name="button_wojtek_Accelerometer">Accelerometer</string>
+    <string name="button_wojtek_Accelerometer_On">Accelerometer - On</string>
+    <string name="button_wojtek_Accelerometer_Off">Accelerometer - Off</string>
+    <string name="button_wojtek_Accelerometer_ClickMe">Click me two times</string>
+    <string name="textView_accelerometer_action">Action</string>
+    <string name="textView_accelerometer_forward">Forward</string>
+    <string name="textView_accelerometer_backward">Backward</string>
+    <string name="textView_accelerometer_f_forward">F.Forward</string>
+    <string name="textView_accelerometer_f_backward">F.Backward</string>
+    <string name="textView_accelerometer_right">Right</string>
+    <string name="textView_accelerometer_f_right">F.Right</string>
+    <string name="textView_accelerometer_left">Left</string>
+    <string name="textView_accelerometer_f_left">F.Left</string>
+    <string name="textView_accelerometer_stop">Stop</string>
+    
+    <string name="button_wojtek_Ultrasonic">Ultrasonic Sensor</string>
+    <string name="button_wojtek_Ultrasonic_Off">Ultrasonic Sensor - Off</string>
+    <string name="button_wojtek_Ultrasonic_On">Ultrasonic Sensor - On</string>
+    
+    <string name="wojtek_check_activity">First check another activity</string>
+    
+    <string name="button_wojtek_Light">Light Sensor</string>
+    <string name="button_wojtek_Light_Off">Light Sensor - Off</string>
+    <string name="button_wojtek_Light_On">Light Sensor - On</string>
+    
+    <string name="menuActivity_dialogExit_title">Exit </string>
+    <string name="menuActivity_dialogExit_message">Do you really want to exit this application?</string>
+    <string name="dialog_Exit">Yes</string>
+    <string name="dialog_Cancel">Cancel</string>
+    
+</resources>

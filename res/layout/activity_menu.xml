@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tlo"
+    tools:context=".Wojtek_Car" >
+    
+    <ImageButton
+        android:id="@+id/imageButton_Garbus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/button_wojtek_Connect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        
+        android:text="@string/button_wojtek_Disconnected" />
+
+    <Button
+        android:id="@+id/button_wojtek_Accelerometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_wojtek_Connect"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/button_wojtek_Accelerometer_Off" />
+
+    <Button
+        android:id="@+id/button_wojtek_Ultrasonic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_wojtek_Accelerometer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/button_wojtek_Ultrasonic_Off" />
+
+    <Button
+        android:id="@+id/button_wojtek_Light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_wojtek_Ultrasonic"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/button_wojtek_Light_Off" />
+
+    <TextView
+        android:id="@+id/textView_wojtek_Accelerometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/imageButton_Garbus"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="25dp"
+        android:textSize="20dp"
+        android:text="" />
+
+</RelativeLayout>
